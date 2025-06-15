@@ -1,0 +1,12 @@
+ARDUINO: HOW TO COMPILE
+- sketch -> upload compiled binary (CTRL + ALT + S)
+
+ARDUINO: HOW TO UPLOAD
+- https://support.arduino.cc/hc/en-us/articles/4404168794514-Reset-the-firmware-on-Nano-RP2040-Connect
+- jumper wire between GND and REC (2nd and 3rd to bottom left pins)
+- preset reset button
+- remove jumper wire
+- copy .ino.elf.uf2 file to mass storage folder
+
+MICRO ROS
+- micro.ros.org/docs/tutorials/core/first_application_linux/
